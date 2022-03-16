@@ -77,3 +77,38 @@
 
 </body>
 </html>
+    }
+
+</style>
+
+<body> 
+
+    <header><h2><img src="arkaplan2.jpg" width="300" height="50" ></h2></header>
+
+        <section>
+            <div class="container"  >
+              <img src="https://cdn.fs.teachablecdn.com/XbNfGk5yRXCzsEJytkO8" width=100% height="500" >
+
+
+            </div>
+          </section>
+
+          
+
+    <aside>
+        <br><br><br><br>
+           
+    </aside>
+   
+    <footer>
+        <h1>
+            <br><br><br><br>
+            
+            
+            
+        </h1>
+    </footer>
+
+
+</body>
+</html>
